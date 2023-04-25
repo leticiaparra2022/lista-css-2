@@ -1,0 +1,72 @@
+.cabeçalho-título{
+display:flex;
+justify-content:center;
+font-family: 'Inter', sans-serif;
+font-weight:700;
+font-size: 64px;
+}
+
+.cabeçalho-imagem{
+    display:block;
+    margin:auto;
+    height: 220px;
+}
+
+.produtos-de-limpeza{
+    color: #273DFF;
+    margin: 20px;
+}
+
+.produtos-de-limpeza-título{
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+}
+
+.produtos-de-limpeza-itens{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    
+}
+
+.higiene-pessoal{
+    color: #E73434;
+    margin: 20px;
+}
+
+.higiene-pessoal-titulo{
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+
+}
+
+.higiene-pessoal-itens{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.açougue{
+    color:#F119F5
+    margin: 20px;
+
+
+}
+
+.açougue-pessoal-titulo{
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+
+}
+
+.açougue-pessoal-itens{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+
+}
+
+
